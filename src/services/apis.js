@@ -1,4 +1,4 @@
-const BASE_URL = "https://server-gj24.onrender.com"
+const BASE_URL = "https://server-gj24.onrender.com/api/v1/auth"
 
 
 
